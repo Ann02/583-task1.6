@@ -1,0 +1,12 @@
+let myName = "Anna";
+let myLastName = true;
+let myClass = "583 JS Core";
+let myBirth = 2002;
+console.log(typeof myBirth);
+console.log(typeof myLastName);
+console.log(typeof myName);
+console.log(typeof myClass);
+let u;
+console.log(typeof u);
+let v = "u" * 2;
+console.log(typeof v);
